@@ -42,4 +42,4 @@ To create this algorithm, I:
 Notes
 ---
 
-Original files provided for the competition are in the *competition-files* folder.  `myAlgo.py` contained my code.
+Original files provided for the competition are in the *competition-files* folder.  `myAlgo.py` contains my code.
